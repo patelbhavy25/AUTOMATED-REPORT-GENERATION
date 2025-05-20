@@ -68,3 +68,4 @@ This task demonstrates the use of Python in a real-world scenario where data is 
 
 # output
 
+<img width="616" alt="Image" src="https://github.com/user-attachments/assets/65c74450-9794-48e9-be41-593095c13a5d" />
